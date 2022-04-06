@@ -1,4 +1,4 @@
-# Legal Studies 123 Pset 2 
+# Legal Studies 123 Project
  
 This is an analysis of BPD stops since their RIPA Compliance Update in 2020! This continues some of the kinds of [analysis done by The Center for Policing Equity](https://www.berkeleyside.org/wp-content/uploads/2018/05/Berkeley-Report-May-2018.pdf) and their work on BPD in 2018 on stop and crime data from 2012-2016. 
 
