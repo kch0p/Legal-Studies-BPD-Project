@@ -1,0 +1,19 @@
+marker-color,marker-size,marker-symbol,schooltype,name,lon,lat
+#7e7e7e,medium,circle-stroked,elementary,Berkeley Arts Magnet at Whittier (BAM),-122.2704935,37.87687742
+#7e7e7e,medium,circle-stroked,elementary,Cragmont Elementary School,-122.2674465,37.89392276
+#7e7e7e,medium,circle-stroked,elementary,Emerson Elementary School,-122.2506773,37.86119188
+#7e7e7e,medium,circle-stroked,elementary,John Muir Elementary,-122.2450876,37.85715985
+#7e7e7e,medium,circle-stroked,elementary,Malcolm X Elementary School,-122.2735941,37.85305136
+#7e7e7e,medium,circle-stroked,elementary,Oxford Elementary,-122.2885045,37.86906894
+#7e7e7e,medium,circle-stroked,elementary,Rosa Parks Elementary,-122.2946709,37.86527451
+#7e7e7e,medium,circle-stroked,elementary,Ruth Acty Elementary,-122.2842479,37.87890986
+#7e7e7e,medium,circle-stroked,elementary,Sylvia Mendez Elementary School,-122.2626185,37.85760881
+#7e7e7e,medium,circle-stroked,elementary,Thousand Oaks Primary School,-122.2805893,37.89233948
+#7e7e7e,medium,circle-stroked,elementary,Washington Elementary School,-122.2729719,37.8663036
+#7e7e7e,medium,square-stroked,middle school,Longfellow Middle School,-122.2789156,37.858422
+#7e7e7e,medium,square-stroked,middle school,Martin Luther King Jr. Middle School,-122.2775853,37.88235641
+#7e7e7e,medium,square-stroked,middle school,Willard Middle School,-122.2580588,37.86048883
+#7e7e7e,medium,triangle-stroked,high school,Berkeley High School,-122.2713625,37.86711246
+#7e7e7e,medium,triangle-stroked,high school,Berkeley Technology Academy,-122.2709227,37.85946813
+#7e7e7e,medium,school,higher education,Berkeley City College,-122.2696835,37.86979308
+#7e7e7e,medium,school,higher education,UC Berkeley,-122.260623,37.87197393
